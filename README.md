@@ -1,8 +1,8 @@
 # test
 <2 :crocodile:
 # :arrow_right:This is what u see with one pound
-## This is what you see with two pounds
-###  This is what you see with three pounds
-#### This is what you see with four pounds
-##### This is what you see with five pounds
+## :arrow_right:This is what you see with two pounds
+###  :arrow_right:This is what you see with three pounds
+#### :arrow_right:This is what you see with four pounds
+##### :arrow_right:This is what you see with five pounds
 ########## This is what you see with TEN pounds :skull::skull::skull:
